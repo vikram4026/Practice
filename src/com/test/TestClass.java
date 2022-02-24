@@ -7,6 +7,7 @@ public class TestClass {
 		System.out.println("for practice");
 		
 		
+		System.out.println(" iam a junior tester");
 	}
 
 }
