@@ -8,6 +8,7 @@ public class TestClass {
 		
 		 System.out.println("SeniorTester");
 		
+		System.out.println(" iam a junior tester");
 	}
 
 }
